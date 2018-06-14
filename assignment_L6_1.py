@@ -86,3 +86,5 @@ for idx, clf, tt in zip(product([0, 1, 2], [0, 1]),[clf1, clf2, clf3, clf4, clf5
     axarr[idx[0], idx[1]].set_title(tt)
 
 plt.show()
+
+#!!7
